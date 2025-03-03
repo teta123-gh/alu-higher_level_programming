@@ -1,0 +1,1 @@
+**Python Inheritance** allows a child class to reuse and extend a parent class, supporting method overriding and multiple inheritance. Use `super()` for parent methods, follow MRO for method resolution, and prefer simple hierarchies.
